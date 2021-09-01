@@ -4,7 +4,7 @@
     "occupation": "Software Architect",
     "description": " 10+ year’s industry experience in designing and developing Object oriented solutions in Multi layered & N-Tired.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I am a multi skilled Software Engineer with over 10+ year’s industry experience in designing and developing Object oriented solutions in Multi layered & N-Tired. I have substantial success to my credit. I have consistently handled complex problems to the satisfaction of my clients by working in stressful situations. I enjoy learning and applying new technologies in a dynamic and forward thinking professional environment.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sallahuddin@gmail.com",
     "phone": "+92 300 6468939, +92 333 8685037",
@@ -19,27 +19,27 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com",
+        "url": "http://facebook.com/sallahuddins",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "http://twitter.com/sallahuddin",
         "className": "fa fa-twitter"
       },
       {
         "name": "google-plus",
-        "url": "http://googleplus.com",
+        "url": "http://googleplus.com/sallahuddin",
         "className": "fa fa-google-plus"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/sallahuddin/",
+        "url": "https://www.linkedin.com/in/sallahuddin",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com",
+        "url": "http://instagram.com/sallahuddin",
         "className": "fa fa-instagram"
       },
       {
@@ -49,7 +49,7 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com",
+        "url": "http://skype.com/sallah-ud-din.sarwar",
         "className": "fa fa-skype"
       }
     ]
@@ -59,54 +59,80 @@
     "education": [
       {
         "school": "University of Gujrat",
-        "degree": "Masters in Computer Software and Media Applications",
+        "degree": "Master of Science (M.S.) in Computer Software Engineering",
         "graduated": "2009",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "University of Punjab",
-        "degree": "Bachelor of Science",
-        "graduated": "2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "",
+        "address":""
       }
     ],
     "work": [
       {
         "company": "Xenex Media",
         "title": "Software Architect",
-        "years": "May 2019 - Present",
-        "description": ""
+        "years": "May 2019 - Present (2 years 5 months)",
+        "description": "",
+        "address": "Lahore, Pakistan"
       },
       {
         "company": "EPIC Consulting Group",
         "title": "Principal Software Engineer",
-        "years": "March 2017 - Jun 2019",
-        "description": ""
+        "years": "Mar 2017 - Jun 2019 (2 years 4 months)",
+        "description": "",
+        "address": "Lahore, Pakistan"
+      },
+      {
+        "company": "Apponative",
+        "title": "Senior Software Engineer & Team Lead",
+        "years": "May 2014 - Mar 2017 (2 years 11 months)",
+        "description": "",
+        "address":"Lahore, Pakistan"
+      },
+      {
+        "company": "SheenSol Technologies",
+        "title": "Senior Software Engineer",
+        "years": "Jul 2012 - Apr 2014 (1 year 10 months)",
+        "description": "",
+        "address": "Lahore, Pakistan"
+      },
+
+      {
+        "company": "Micro Logics Ltd",
+        "title": "Software Engineer",
+        "years": "Sep 2010 - Jun 2012  (1 year 10 months)",
+        "description": "",
+        "address": "Islamabad, Pakistan"
+      },
+      {
+        "company": "MDTotal",
+        "title": "Software Engineer",
+        "years": "Jan 2010 - Aug 2010 (8 months)",
+        "description": "",
+        "address": "Lahore, Pakistan"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "NodeJs",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Angular",
         "level": "80%"
       },
       {
         "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
         "level": "50%"
       },
       {
@@ -118,46 +144,57 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Gocycle",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://www.gocycle.com.au"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "Freshfeelz",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://freshfeelz.com.au"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Terra Virtua",
+        "category": "A truly immersive collectible platform across Mobile, AR and VR with unique social, gaming and creative experiences, enabled by blockchain.",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://terravirtua.io"
       },
       {
-        "title": "Resume Website",
+        "title": "my Tutor",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://www.mytutor.co.uk"
       },
       {
-        "title": "Smirkspace",
+        "title": "iCentra",
         "category": "(MVP Only) A React and Meteor based chat University project.",
         "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://icentra.com.au"
+      },
+      {
+        "title": "yidio",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "https://www.yidio.com"
+        
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Mr. Sallah-Ud-Din is very intelligent and dedicated Software Engineer. At the beginning of his career i am impressed that he is not looking fresh. Because his mind think as senior engineer. He have logical mind and he can make solution of every problem in the field of development.",
+        "user": "Zahid Nadeem (Senior Software Engineer at Punjab Information Technology Board)",
+        "title": "Senior Software Engineer",
+        "Company": "Punjab Information Technology Board"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Sallahudin was an awesome learner and a very good group mate and he was never shy of trying new technologies. He always was a source of inspiration for us to work hard like him.I wish him best of luck for his future plans.",
+        "user": "Waseem Sarwar (Senior Software Developer at Geeks Ltd)",
+        "title": "Senior Software Developer",
+        "Company": "Geeks Ltd"
       }
     ]
   }
